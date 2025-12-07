@@ -16,7 +16,7 @@
             <div class="flex-shrink-0">
               <img class="h-6 sm:h-8 w-auto text-udemy-purple" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"></img>
             </div>
-            <button class="hidden md:block text-sm font-medium hover:text-udemy-purple">Categories</button>
+            <button class="hidden md:block text-sm font-medium hover:text-udemy-purple">Explore</button>
           </div>
 
           <!-- Search Bar - Hidden on mobile, shown on md+ -->
@@ -42,6 +42,7 @@
 
           <!-- Right Side Menu -->
           <div class="flex items-center space-x-2 sm:space-x-4">
+            <button class="hidden xl:block text-sm font-medium hover:text-udemy-purple whitespace-nowrap">Plans & Pricing</button>
             <button class="hidden xl:block text-sm font-medium hover:text-udemy-purple whitespace-nowrap">Udemy Business</button>
             <button class="hidden xl:block text-sm font-medium hover:text-udemy-purple whitespace-nowrap">Teach on Udemy</button>
             <button class="hidden sm:block p-2 hover:text-udemy-purple">
